@@ -9,4 +9,8 @@ $('#inputName').on('keyup', function (event) {
     }
 
     console.log(event.which)
+
+    console.log('================text=====================')
+
+    console.log(event)
 })
